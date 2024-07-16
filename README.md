@@ -148,12 +148,6 @@ In addition to the main business requests, the following recommended insights we
 - **Product Responsiveness to Promotions:** Analyze specific products that respond exceptionally well or poorly to promotions.
 - **Correlation between Product Category and Promotion Type Effectiveness:** Investigate the relationship between product categories and the effectiveness of different promotion types.
 
-## Visualizations
-
-Explore the live Power BI dashboard for interactive visualizations:
-
-[View Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOGZmYjUxOTAtYWViYS00MjAxLTg4YzQtYjE3MDQyNmUxYmU1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
-
 ## Future Work
 
 Future work could include:
